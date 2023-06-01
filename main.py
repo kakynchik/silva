@@ -7,3 +7,4 @@ def filter_python_strings(strings):
 input_strings = input("vvedit ryadki(z probelami): ").split()
 filtered_list = filter_python_strings(input_strings)
 print("spiski ryadkov s 'Python':", filtered_list)
+ 
