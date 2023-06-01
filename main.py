@@ -1,1 +1,1 @@
-we use the plane to see the rainn
+print("Привіт світ!")
